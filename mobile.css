@@ -1,0 +1,91 @@
+header {
+    text-align: center;
+}
+
+header h1 {
+    display: inline;
+    position: relative;
+}
+
+header img {
+    display: inline;
+    height: 50px;
+    position: relative;
+    top: 13px;
+}
+
+
+nav ul {
+    width: 100px;
+    padding-left: 0;
+    margin: auto;
+}
+
+nav li {
+    list-style-type: none;
+    margin: 3% auto;
+}
+
+form {
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+main li {
+    display: block;
+    width: 275px;
+    margin: 3% auto;
+}
+
+input {
+    width: 300px;
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: auto;
+    margin-top: 1%;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+    margin-top: 2%;
+}
+
+#deals {
+    display: flex;
+    height: 500px;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    margin-top: 2%;
+}
+
+#deal1 {
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+    margin-top: 10px;
+}
+
+#deal2 {
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+    margin-top: 10px;
+}
+
+#deal3 {
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 2%;
+}
